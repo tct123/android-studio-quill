@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/build/intermediates/exploded-aar/com.github.yukuku/ambilwarna/2.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7ed87c7f833e46dacace668e63cb8c4b67cb3172">
+        <dex dex="/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.yukuku-ambilwarna-2.0.1_d3e7b7c6d17c15c4f5d6911cc6fcac9d87bf945a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1478e56354ae4aca19571f6604563c7146504b0">
+        <dex dex="/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9fa82ee3684ea4ff7efb7ec6381f5ed2c37eee10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c873583fffb9ed0c8ef8db5f4748b93a6b38de73">
+        <dex dex="/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_acec4e3f6137e9968d65ee13a9ca2f619dfb98e4/classes.dex" />
+    </item>
+
+</items>

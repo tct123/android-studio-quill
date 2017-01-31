@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/androidFilePicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/filepicker_grid_file.png",
+        "source": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/androidFilePicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/filepicker_grid_file.png"
+    },
+    {
+        "merged": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/androidFilePicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/filepicker_icon.png",
+        "source": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/androidFilePicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/filepicker_icon.png"
+    },
+    {
+        "merged": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/androidFilePicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/filepicker_grid_folder.png",
+        "source": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/androidFilePicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/filepicker_grid_folder.png"
+    },
+    {
+        "merged": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/androidFilePicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/filepicker_indicator.png",
+        "source": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/androidFilePicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/filepicker_indicator.png"
+    },
+    {
+        "merged": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/androidFilePicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/filepicker_shortcut_sdcard.png",
+        "source": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/androidFilePicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/filepicker_shortcut_sdcard.png"
+    },
+    {
+        "merged": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/androidFilePicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/filepicker_shortcut_folder.png",
+        "source": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/androidFilePicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/filepicker_shortcut_folder.png"
+    }
+]

@@ -1,0 +1,2 @@
+set solib-search-path /home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/src/main/obj/local/mips
+directory /home/saravanan/android-sdk-linux/ndk-bundle/platforms/android-9/arch-mips/usr/include /home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/src/main/jni/libhpdf-2.3.0RC2/include /home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/src/main/jni/libhpdf-2.3.0RC2/src /home/saravanan/android-sdk-linux/ndk-bundle/sources/cxx-stl/system/include

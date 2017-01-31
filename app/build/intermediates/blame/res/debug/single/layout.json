@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/build/intermediates/res/merged/debug/layout/import_backup.xml",
+        "source": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/src/main/res/layout/import_backup.xml"
+    },
+    {
+        "merged": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/build/intermediates/res/merged/debug/layout/sync_item.xml",
+        "source": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/src/main/res/layout/sync_item.xml"
+    },
+    {
+        "merged": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/build/intermediates/res/merged/debug/layout/toolbox.xml",
+        "source": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/src/main/res/layout/toolbox.xml"
+    },
+    {
+        "merged": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/build/intermediates/res/merged/debug/layout/ambilwarna_pref_widget.xml",
+        "source": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/build/intermediates/exploded-aar/com.github.yukuku/ambilwarna/2.0.1/res/layout/ambilwarna_pref_widget.xml"
+    },
+    {
+        "merged": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/build/intermediates/res/merged/debug/layout/bookshelf_item.xml",
+        "source": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/src/main/res/layout/bookshelf_item.xml"
+    },
+    {
+        "merged": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/build/intermediates/res/merged/debug/layout/filepicker_dir_list_item.xml",
+        "source": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/build/intermediates/exploded-aar/android-quill-master1/androidFilePicker/unspecified/res/layout/filepicker_dir_list_item.xml"
+    },
+    {
+        "merged": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/build/intermediates/res/merged/debug/layout/image_editor_form.xml",
+        "source": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/src/main/res/layout/image_editor_form.xml"
+    },
+    {
+        "merged": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/build/intermediates/res/merged/debug/layout/image_editor_crop.xml",
+        "source": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/src/main/res/layout/image_editor_crop.xml"
+    },
+    {
+        "merged": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/build/intermediates/res/merged/debug/layout/tag_activity.xml",
+        "source": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/src/main/res/layout/tag_activity.xml"
+    },
+    {
+        "merged": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/build/intermediates/res/merged/debug/layout/account_login.xml",
+        "source": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/src/main/res/layout/account_login.xml"
+    },
+    {
+        "merged": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/build/intermediates/res/merged/debug/layout/toolbox_right.xml",
+        "source": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/src/main/res/layout/toolbox_right.xml"
+    },
+    {
+        "merged": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/build/intermediates/res/merged/debug/layout/edit_tag_dialog.xml",
+        "source": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/src/main/res/layout/edit_tag_dialog.xml"
+    },
+    {
+        "merged": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/build/intermediates/res/merged/debug/layout/thumbnail_activity.xml",
+        "source": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/src/main/res/layout/thumbnail_activity.xml"
+    },
+    {
+        "merged": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/build/intermediates/res/merged/debug/layout/help_browser.xml",
+        "source": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/src/main/res/layout/help_browser.xml"
+    },
+    {
+        "merged": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/build/intermediates/res/merged/debug/layout/update_activity.xml",
+        "source": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/src/main/res/layout/update_activity.xml"
+    },
+    {
+        "merged": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/build/intermediates/res/merged/debug/layout/edit_notebook_dialog.xml",
+        "source": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/src/main/res/layout/edit_notebook_dialog.xml"
+    },
+    {
+        "merged": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/build/intermediates/res/merged/debug/layout/filepicker_main.xml",
+        "source": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/build/intermediates/exploded-aar/android-quill-master1/androidFilePicker/unspecified/res/layout/filepicker_main.xml"
+    },
+    {
+        "merged": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/build/intermediates/res/merged/debug/layout/ambilwarna_dialog.xml",
+        "source": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/build/intermediates/exploded-aar/com.github.yukuku/ambilwarna/2.0.1/res/layout/ambilwarna_dialog.xml"
+    },
+    {
+        "merged": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/build/intermediates/res/merged/debug/layout/account_new.xml",
+        "source": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/src/main/res/layout/account_new.xml"
+    },
+    {
+        "merged": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/build/intermediates/res/merged/debug/layout/tag_item.xml",
+        "source": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/src/main/res/layout/tag_item.xml"
+    },
+    {
+        "merged": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/build/intermediates/res/merged/debug/layout/new_notebook.xml",
+        "source": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/src/main/res/layout/new_notebook.xml"
+    },
+    {
+        "merged": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/build/intermediates/res/merged/debug/layout/sync_status_fragment.xml",
+        "source": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/src/main/res/layout/sync_status_fragment.xml"
+    },
+    {
+        "merged": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/build/intermediates/res/merged/debug/layout/sync_activity.xml",
+        "source": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/src/main/res/layout/sync_activity.xml"
+    },
+    {
+        "merged": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/build/intermediates/res/merged/debug/layout/export.xml",
+        "source": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/src/main/res/layout/export.xml"
+    },
+    {
+        "merged": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/build/intermediates/res/merged/debug/layout/filepicker_shortcut_item.xml",
+        "source": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/build/intermediates/exploded-aar/android-quill-master1/androidFilePicker/unspecified/res/layout/filepicker_shortcut_item.xml"
+    },
+    {
+        "merged": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/build/intermediates/res/merged/debug/layout/image_editor.xml",
+        "source": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/src/main/res/layout/image_editor.xml"
+    },
+    {
+        "merged": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/build/intermediates/res/merged/debug/layout/filepicker_new_folder_dialog.xml",
+        "source": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/build/intermediates/exploded-aar/android-quill-master1/androidFilePicker/unspecified/res/layout/filepicker_new_folder_dialog.xml"
+    },
+    {
+        "merged": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/build/intermediates/res/merged/debug/layout/tag_list.xml",
+        "source": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/src/main/res/layout/tag_list.xml"
+    }
+]

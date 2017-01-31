@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dlg_aspect_entries">
+        <item>Portrait Screen</item>
+        <item>Landscape Screen</item>
+        <item>A4 Paper</item>
+        <item>US Letter</item>
+        <item>US Legal</item>
+        <item>Projector (4:3)</item>
+        <item>HDTV (16:9)</item>
+    </string-array>
+    <string-array name="dlg_aspect_values">
+        <item>ASPECT_PORTRAIT</item>
+        <item>ASPECT_LANDSCAPE</item>
+        <item>ASPECT_A4_PAPER</item>
+        <item>ASPECT_US_LETTER</item>
+        <item>ASPECT_US_LEGAL</item>
+        <item>ASPECT_4_TO_3</item>
+        <item>ASPECT_16_TO_9</item>
+    </string-array>
+    <string-array name="dlg_background_entries">
+        <item>@string/dlg_background_entry_EMPTY</item>
+        <item>@string/dlg_background_entry_RULED</item>
+        <item>@string/dlg_background_entry_COLLEGERULED</item>
+        <item>@string/dlg_background_entry_NARROWRULED</item>
+        <item>@string/dlg_background_entry_QUADPAPER</item>
+        <item>@string/dlg_background_entry_CORNELLNOTES</item>
+        <item>@string/dlg_background_entry_DAYPLANNER</item>
+        <item>@string/dlg_background_entry_MUSIC</item>
+    </string-array>
+    <string-array name="dlg_background_values">
+        <item>EMPTY</item>
+        <item>RULED</item>
+        <item>COLLEGERULED</item>
+        <item>NARROWRULED</item>
+        <item>QUADPAPER</item>
+        <item>CORNELLNOTES</item>
+        <item>DAYPLANNER</item>
+        <item>MUSIC</item>
+    </string-array>
+    <string-array name="dlg_thickness_entries">
+        <item>Single pixel</item>
+        <item>Ultra-fine</item>
+        <item>Thin</item>
+        <item>Medium</item>
+        <item>Thick</item>
+        <item>Giant</item>
+    </string-array>
+    <integer-array name="dlg_thickness_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>5</item>
+        <item>12</item>
+        <item>40</item>
+    </integer-array>
+    <string-array name="export_file_format">
+        <item>Current page as raster image (PNG)</item>
+        <item>Current page as vector graphics (PDF)</item>
+        <item>Tagged pages as vector graphics (PDF)</item>
+        <item>Whole notebook as vector graphics (PDF)</item>
+        <item>Whole notebook as Quill backup archive</item>
+    </string-array>
+    <string-array name="export_file_values">
+        <item>EXPORT_FILE_PNG</item>
+        <item>EXPORT_FILE_PDF_PAGE</item>
+        <item>EXPORT_FILE_PDF_TAGGED</item>
+        <item>EXPORT_FILE_PDF_ALL</item>
+        <item>EXPORT_FILE_QUILL</item>
+    </string-array>
+    <string-array name="export_size_raster">
+        <item>1920 x 1080 pixels (HDTV)</item>
+        <item>1280 x 800 pixels</item>
+        <item>1024 x 768 pixels (Projector)</item>
+        <item>800 x 600 pixels</item>
+    </string-array>
+    <string-array name="export_size_vector">
+        <item>A4 Paper (210 × 297mm)</item>
+        <item>US Letter (8.5 x 11in)</item>
+        <item>US Legal (8.5 x 14in)</item>
+    </string-array>
+    <string-array name="export_via_entries">
+        <item>Use other Android app</item>
+        <item>Evernote</item>
+        <item>Pick directory to save to</item>
+        <item>External SD card</item>
+        <item>Internal memory</item>
+        <item>USB memory stick</item>
+    </string-array>
+    <string-array name="export_via_values">
+        <item>EXPORT_VIA_APP</item>
+        <item>EXPORT_VIA_EVERNOTE</item>
+        <item>EXPORT_VIA_PICK</item>
+        <item>EXPORT_VIA_EXTERNALSD</item>
+        <item>EXPORT_VIA_SDCARD</item>
+        <item>EXPORT_VIA_USB</item>
+    </string-array>
+    <string-array name="filepicker_sorting">
+		<item>None</item>
+		<item>Alphabetical</item>
+		<item>By Type</item>
+		<item>By Size</item>
+	</string-array>
+    <string-array name="filepicker_sorting_value">
+		<item>none</item>
+		<item>alpha</item>
+		<item>type</item>
+		<item>size</item>
+	</string-array>
+    <string-array name="preferences_override_pen_type_entries">
+        <item>Autodetect</item>
+        <item>Capacitive pen</item>
+        <item>Thinkpad Tablet pen</item>
+        <item>Samsung Note S-pen</item>
+        <item>HTC Flyer pen</item>
+        <item>Magic Left Alt Hack</item>
+        <item>Android ICS (4.0) stylus API</item>
+    </string-array>
+    <string-array name="preferences_override_pen_type_values">
+        <item>PEN_TYPE_AUTO</item>
+        <item>PEN_TYPE_CAPACITIVE</item>
+        <item>PEN_TYPE_THINKPAD_TABLET</item>
+        <item>PEN_TYPE_SAMSUNG_NOTE</item>
+        <item>PEN_TYPE_HTC</item>
+        <item>PEN_TYPE_LEFT_ALT</item>
+        <item>PEN_TYPE_ICS</item>
+    </string-array>
+    <string-array name="preferences_pen_input_mode_entries">
+        <item>Filter out finger touch events when writing</item>
+        <item>Filter out finger touch but allow touch gestures</item>
+        <item>Any touch event writes on screen, no gestures</item>
+    </string-array>
+    <string-array name="preferences_pen_input_mode_values">
+        <item>STYLUS_ONLY</item>
+        <item>STYLUS_WITH_GESTURES</item>
+        <item>STYLUS_AND_TOUCH</item>
+    </string-array>
+    <string-array name="preferences_pen_smooth_entries">
+        <item>No smoothing, use raw data</item>
+        <item>Gaussian filter</item>
+        <item>Gaussian Filter (high quality)</item>
+        <item>Savitzky-Golay filter</item>
+        <item>Savitzky-Golay filter (high quality, recommended)</item>
+    </string-array>
+    <string-array name="preferences_pen_smooth_values">
+        <item>KERNEL_NONE</item>
+        <item>KERNEL_GAUSSIAN_5</item>
+        <item>KERNEL_GAUSSIAN_11</item>
+        <item>KERNEL_SAVITZKY_GOLAY_5</item>
+        <item>KERNEL_SAVITZKY_GOLAY_11</item>
+    </string-array>
+    <string-array name="toolbox_thickness">
+        <item>Ultra-fine</item>
+        <item>Thin</item>
+        <item>Medium</item>
+        <item>Thick</item>
+        <item>Giant</item>
+    </string-array>
+    <color name="filepicker_black">#000000</color>
+    <color name="filepicker_blue">#ff0091dc</color>
+    <color name="filepicker_darkGray">#333333</color>
+    <color name="filepicker_gray">#464646</color>
+    <color name="filepicker_offWhite">#DDDDDD</color>
+    <color name="filepicker_white">#FFFFFF</color>
+    <color name="filepicker_whitegray">#969696</color>
+    <color name="lfilepicker_ightgray">#767676</color>
+    <declare-styleable name="AmbilWarnaPreference"><attr format="boolean" name="supportsAlpha"/></declare-styleable>
+    <dimen name="account_label_hspace">5dp</dimen>
+    <dimen name="account_label_small_vspace">5dp</dimen>
+    <dimen name="account_label_vspace">25dp</dimen>
+    <dimen name="ambilwarna_hsvHeight">400dp</dimen>
+    <dimen name="ambilwarna_hsvWidth">400dp</dimen>
+    <dimen name="ambilwarna_hueWidth">60dp</dimen>
+    <dimen name="ambilwarna_spacer">8dp</dimen>
+    <dimen name="app_defaultsize_h">598.0dip</dimen>
+    <dimen name="app_defaultsize_w">632.0dip</dimen>
+    <dimen name="app_minimumsize_h">598.0dip</dimen>
+    <dimen name="app_minimumsize_w">632.0dip</dimen>
+    <dimen name="export_spacer">15dp</dimen>
+    <dimen name="filepicker_grid_column_width">128dp</dimen>
+    <dimen name="filepicker_grid_row_height">128dp</dimen>
+    <dimen name="filepicker_shortcut_height">56dp</dimen>
+    <dimen name="sync_margin">5dp</dimen>
+    <dimen name="toolbox_color">24dp</dimen>
+    <dimen name="toolbox_color_sep">0dp</dimen>
+    <string name="account_button_create">Create</string>
+    <string name="account_button_create_new">Create new</string>
+    <string name="account_button_login">Login</string>
+    <string name="account_email_label">Email:</string>
+    <string name="account_error_create">Error creating account (server said: %s)</string>
+    <string name="account_error_login">Error logging in (server said: %s)</string>
+    <string name="account_login_successful">Login successful!</string>
+    <string name="account_login_title">Login to your Quill account</string>
+    <string name="account_name_label">Name:</string>
+    <string name="account_new_email_text">For password recovery</string>
+    <string name="account_new_name_text">How you would like to be addressed</string>
+    <string name="account_new_password_text">Write down &amp; store safely</string>
+    <string name="account_new_title">Create new Quill account</string>
+    <string name="account_password_label">Password:</string>
+    <string name="account_show_password">Show password</string>
+    <string name="activity_base_automatic_saved">Saved current notebook.</string>
+    <string name="activity_base_backed_up">Quill notebooks backed up.</string>
+    <string name="app_name">Quill</string>
+    <string name="changelog_full_title">Change Log</string>
+    <string name="changelog_ok_button">OK</string>
+    <string name="changelog_title">What\'s New</string>
+    <string name="command_clear_page">Clear page %1$d</string>
+    <string name="command_create_graphics">Adding to page %1$d</string>
+    <string name="command_erase_graphics">Removing from page %1$d</string>
+    <string name="command_page_erase">Delete page number %1$d </string>
+    <string name="command_page_insert">Insert page number %1$d </string>
+    <string name="delete_notebook_message">Deleting notebook, are you sure?</string>
+    <string name="dlg_aspect_title">Aspect ratio</string>
+    <string name="dlg_background_entry_COLLEGERULED">College ruled</string>
+    <string name="dlg_background_entry_CORNELLNOTES">Cornell Notes</string>
+    <string name="dlg_background_entry_DAYPLANNER">Day Planner</string>
+    <string name="dlg_background_entry_EMPTY">Blank</string>
+    <string name="dlg_background_entry_MUSIC">Music</string>
+    <string name="dlg_background_entry_NARROWRULED">Narrow ruled</string>
+    <string name="dlg_background_entry_QUADPAPER">Quad paper</string>
+    <string name="dlg_background_entry_RULED">Legal ruled</string>
+    <string name="dlg_background_title">Background</string>
+    <string name="dlg_thickness_title">Pen thickness</string>
+    <string name="edit_notebook_delete">Delete</string>
+    <string name="edit_notebook_export">Export</string>
+    <string name="edit_notebook_header">Description:</string>
+    <string name="edit_notebook_title">Edit notebook</string>
+    <string name="edit_notebook_title_new">Create new notebook</string>
+    <string name="edit_tag_header">Tag:</string>
+    <string name="edit_tag_help">Clear name to delete tag</string>
+    <string name="edit_tag_title">Edit tag</string>
+    <string name="export_background">Include paper background</string>
+    <string name="export_button_text">Export</string>
+    <string name="export_err_cannot_create_file">Unable to create file</string>
+    <string name="export_err_cannot_write_file">Unable to write to file</string>
+    <string name="export_err_no_way_to_share">No way to share</string>
+    <string name="export_err_path_does_not_exist">Path does not exist</string>
+    <string name="export_evernote_cancel_message">Cancelled export to Evernote</string>
+    <string name="export_evernote_download_question">Download from Android Market?</string>
+    <string name="export_evernote_err_cannot_close">Unable to close file %1$s</string>
+    <string name="export_evernote_err_cannot_write">Unable to write file %1$s</string>
+    <string name="export_evernote_err_no_cache_dir">Unable to open cache directory</string>
+    <string name="export_evernote_err_not_found">You must first install the Evernote app</string>
+    <string name="export_evernote_message">Compressing pages …</string>
+    <string name="export_evernote_title">Send to Evernote</string>
+    <string name="export_file_format_header">Output format:</string>
+    <string name="export_filename_default">Filename.pdf</string>
+    <string name="export_name_header">Name:</string>
+    <string name="export_pick_destination_directory">Select destination folder</string>
+    <string name="export_saved_as">Saved as</string>
+    <string name="export_share_title">Export page via</string>
+    <string name="export_size_header">Size:</string>
+    <string name="export_via_header">Share file via:</string>
+    <string name="export_view_file_title">View exported file with</string>
+    <string name="filepicker_menu_new_folder">New Folder</string>
+    <string name="filepicker_menu_select_folder">Select folder</string>
+    <string name="filepicker_name">File picker</string>
+    <string name="filepicker_new_folder_cancel">Cancel</string>
+    <string name="filepicker_new_folder_header">Name:</string>
+    <string name="filepicker_new_folder_ok">Create</string>
+    <string name="help_browser_faq">FAQ</string>
+    <string name="help_browser_manual">Manual</string>
+    <string name="help_browser_quit">Quit Help</string>
+    <string name="hide_bar_failed_hide">Failed to hide the system bar (Do you have root?)</string>
+    <string name="hide_bar_failed_show">Failed to show the system bar (Do you have root?)</string>
+    <string name="image_editor_aspect_checkbox_label">Fix 1:1 aspect ratio</string>
+    <string name="image_editor_erase">Remove</string>
+    <string name="image_editor_err_no_photo">Camera did not capture photo!</string>
+    <string name="image_editor_err_no_such_image">No such image!</string>
+    <string name="image_editor_err_permissions">Image does not exist, or insufficient permissions!</string>
+    <string name="image_editor_resolution">Resolution</string>
+    <string name="image_editor_source_image">Source image</string>
+    <string name="image_editor_source_uri">Source URI</string>
+    <string name="image_editor_title">Select image</string>
+    <string name="menu_image_aspect">Fix aspect ratio</string>
+    <string name="menu_image_cropped">Crop images</string>
+    <string name="menu_image_cropped_condensed">Crop</string>
+    <string name="menu_image_photo">Take photo</string>
+    <string name="menu_image_photo_condensed">Photo</string>
+    <string name="menu_image_pick">Pick image</string>
+    <string name="menu_image_pick_condensed">Gallery</string>
+    <string name="menu_quill_about">About Quill</string>
+    <string name="menu_quill_changelog">Changelog</string>
+    <string name="menu_quill_color">Color</string>
+    <string name="menu_quill_eraser">Erase</string>
+    <string name="menu_quill_export">Export</string>
+    <string name="menu_quill_fountain_pen">Fountain Pen</string>
+    <string name="menu_quill_image">Image</string>
+    <string name="menu_quill_manual">Quill Manual</string>
+    <string name="menu_quill_move">Move / Zoom</string>
+    <string name="menu_quill_next">Next page</string>
+    <string name="menu_quill_next_condensed">Next</string>
+    <string name="menu_quill_page_aspect">Aspect ratio</string>
+    <string name="menu_quill_page_clear">Clear</string>
+    <string name="menu_quill_page_delete">Delete</string>
+    <string name="menu_quill_page_duplicate">Duplicate</string>
+    <string name="menu_quill_page_group">Page</string>
+    <string name="menu_quill_page_insert">Insert</string>
+    <string name="menu_quill_page_last">Last</string>
+    <string name="menu_quill_page_next">Next</string>
+    <string name="menu_quill_page_prev">Previous</string>
+    <string name="menu_quill_page_readonly">Readonly</string>
+    <string name="menu_quill_page_tag">Tags</string>
+    <string name="menu_quill_page_type">Paper</string>
+    <string name="menu_quill_page_unfiltered_next">Unfiltered next</string>
+    <string name="menu_quill_page_unfiltered_prev">Unfiltered previous</string>
+    <string name="menu_quill_pen_history">Pen history</string>
+    <string name="menu_quill_pencil">Pencil</string>
+    <string name="menu_quill_prev">Previous page</string>
+    <string name="menu_quill_prev_condensed">Prev</string>
+    <string name="menu_quill_prev_pen">Previous pen</string>
+    <string name="menu_quill_redo">Redo</string>
+    <string name="menu_quill_settings">Settings</string>
+    <string name="menu_quill_straight_line">Straight line</string>
+    <string name="menu_quill_straight_line_condensed">Line</string>
+    <string name="menu_quill_text">Text input</string>
+    <string name="menu_quill_text_condensed">Text</string>
+    <string name="menu_quill_thumbnails">Page thumbnails</string>
+    <string name="menu_quill_tools">Tools</string>
+    <string name="menu_quill_undo">Undo</string>
+    <string name="menu_quill_width">Thickness</string>
+    <string name="menu_tag_list_thumbnails">Page thumbnails</string>
+    <string name="menu_thumbnail_delete">Delete pages</string>
+    <string name="menu_thumbnail_delete_condensed">Delete</string>
+    <string name="menu_thumbnail_new_notebook">New notebook</string>
+    <string name="menu_thumbnail_send_to_catch">Send to Catch.com</string>
+    <string name="menu_thumbnail_send_to_evernote">Send to Evernote</string>
+    <string name="menu_thumbnail_send_to_evernote_condensed">Evernote</string>
+    <string name="menu_thumbnail_show_tags">Show tags</string>
+    <string name="menu_thumbnail_switch_notebook">Switch notebook</string>
+    <string name="menu_thumbnail_sync">Sync</string>
+    <string name="new_notebook_default_title">New notebook</string>
+    <string name="new_notebook_description">Description:</string>
+    <string name="preferences_action_bar">Show the action bar</string>
+    <string name="preferences_action_bar_summary">Whether to show the horizontal bar on the top of the screen</string>
+    <string name="preferences_backup_auto">Automatic backups</string>
+    <string name="preferences_backup_auto_summary">Make backups of your notebooks automatically</string>
+    <string name="preferences_backup_dir">Automatic backup directory</string>
+    <string name="preferences_debug">Debug options</string>
+    <string name="preferences_double_tap">Double tap while writing</string>
+    <string name="preferences_double_tap_summary">Zoom in/out by double tapping the screen with fingers while writing</string>
+    <string name="preferences_err_loading_backup">Error loading the backup file.</string>
+    <string name="preferences_err_not_a_directory">(Error: not a directory)</string>
+    <string name="preferences_err_permissions">(Error: no write permissions)</string>
+    <string name="preferences_incomplete">Incomplete features</string>
+    <string name="preferences_incomplete_summary">Enable features that are not finished yet</string>
+    <string name="preferences_input">Input preferences</string>
+    <string name="preferences_keep_screen_on">Keep screen on</string>
+    <string name="preferences_keep_screen_on_summary">Screen stays on in the main window</string>
+    <string name="preferences_move_gesture">Move gesture while writing</string>
+    <string name="preferences_move_gesture_summary">Drag the page around with two finger touch while writing</string>
+    <string name="preferences_move_zoom">Lock zoom during move gesture</string>
+    <string name="preferences_move_zoom_summary">Whether or not zoom stays constant or changes with pinch</string>
+    <string name="preferences_override_pen_title">Override the detected pen type</string>
+    <string name="preferences_override_pen_type_default">PEN_TYPE_AUTO</string>
+    <string name="preferences_palm_shield">Palm shield</string>
+    <string name="preferences_palm_shield_summary">Make bottom half of screen insensitive to touch (top half if left-handed)</string>
+    <string name="preferences_pen_input_mode_title">Pen input mode</string>
+    <string name="preferences_pen_smooth_default">KERNEL_SAVITZKY_GOLAY_11</string>
+    <string name="preferences_pen_smooth_filter">Pen input smoothing</string>
+    <string name="preferences_pick_backup">Pick a backup to restore</string>
+    <string name="preferences_restore">Restore Backup</string>
+    <string name="preferences_restore_summary">Import a .quill backup file (Use \"Export\" to make backups)</string>
+    <string name="preferences_select_backup_folder">Please select a backup folder</string>
+    <string name="preferences_system_bar">Hide system bar (requires root)</string>
+    <string name="preferences_system_bar_summary">Remove the horizontal bar at the bottom (home button, clock) of the screen</string>
+    <string name="preferences_toolbox_left">Right-handed (most common)</string>
+    <string name="preferences_toolbox_left_summary">The red button and toolbox will be on the left</string>
+    <string name="preferences_tools_switch_back">Tools switch back</string>
+    <string name="preferences_tools_switch_back_summary">Automatically switch back to pen after finishing move/zoom/erase</string>
+    <string name="preferences_user_data">User data</string>
+    <string name="preferences_user_handedness">User handedness</string>
+    <string name="preferences_volume_key_nav">Volume key navigation</string>
+    <string name="preferences_volume_key_nav_summary">Press volume-up for next page, volume-down for previous page</string>
+    <string name="quill_already_first_page">Already on first page</string>
+    <string name="quill_already_first_tagged_page">Already on first tagged page</string>
+    <string name="quill_deleted_page">Deleted page %1$d / %2$d</string>
+    <string name="quill_inserted_at_end">Inserted new page at end</string>
+    <string name="quill_no_other_pen_styles">No other pen styles in history.</string>
+    <string name="quill_redo">Redo</string>
+    <string name="quill_showing_first_page">Showing first page</string>
+    <string name="quill_showing_first_tagged_page">Showing first tagged page</string>
+    <string name="quill_showing_last_page">Showing last page</string>
+    <string name="quill_showing_last_tagged_page">Showing last tagged page</string>
+    <string name="quill_showing_page">Showing page %1$d / %2$d</string>
+    <string name="quill_undo">Undo</string>
+    <string name="sync_error">Error during sync: %s</string>
+    <string name="tag_button">Tags</string>
+    <string name="tag_list_default_text">Description</string>
+    <string name="tag_list_new_label">New</string>
+    <string name="tag_list_status">Selected %1$d / %2$d tags</string>
+    <string name="tag_list_title">Tag current page</string>
+    <string name="tag_overlay_missing">(missing)</string>
+    <string name="tag_overlay_page_number">Page %1$d</string>
+    <string name="tag_overlay_required">(required)</string>
+    <string name="tag_overlay_tags">Tags:</string>
+    <string name="thumbnail_multiselect_multiple">%1$d pages selected</string>
+    <string name="thumbnail_multiselect_single">One page selected</string>
+    <string name="thumbnail_multiselect_title">Select Items</string>
+    <string name="thumbnail_new_notebook_title">Create new notebook</string>
+    <string name="thumbnail_title_filter">Only show pages that contain the following tags</string>
+    <style name="CustomActionBar" parent="android:style/Theme.Holo.Light">
+    </style>
+</resources>

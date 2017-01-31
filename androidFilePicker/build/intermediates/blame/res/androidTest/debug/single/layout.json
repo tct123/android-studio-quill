@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/androidFilePicker/build/intermediates/res/merged/androidTest/debug/layout/filepicker_dir_list_item.xml",
+        "source": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/androidFilePicker/build/intermediates/bundles/debug/res/layout/filepicker_dir_list_item.xml"
+    },
+    {
+        "merged": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/androidFilePicker/build/intermediates/res/merged/androidTest/debug/layout/filepicker_main.xml",
+        "source": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/androidFilePicker/build/intermediates/bundles/debug/res/layout/filepicker_main.xml"
+    },
+    {
+        "merged": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/androidFilePicker/build/intermediates/res/merged/androidTest/debug/layout/filepicker_new_folder_dialog.xml",
+        "source": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/androidFilePicker/build/intermediates/bundles/debug/res/layout/filepicker_new_folder_dialog.xml"
+    },
+    {
+        "merged": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/androidFilePicker/build/intermediates/res/merged/androidTest/debug/layout/filepicker_shortcut_item.xml",
+        "source": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/androidFilePicker/build/intermediates/bundles/debug/res/layout/filepicker_shortcut_item.xml"
+    }
+]

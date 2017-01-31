@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/androidFilePicker/src/main/assets"/><source path="/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/androidFilePicker/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/androidFilePicker/src/debug/assets"/></dataSet></merger>

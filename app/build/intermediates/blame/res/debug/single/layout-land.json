@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/build/intermediates/res/merged/debug/layout-land/sync_activity.xml",
+        "source": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/src/main/res/layout-land/sync_activity.xml"
+    },
+    {
+        "merged": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/build/intermediates/res/merged/debug/layout-land/ambilwarna_dialog.xml",
+        "source": "/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/build/intermediates/exploded-aar/com.github.yukuku/ambilwarna/2.0.1/res/layout-land/ambilwarna_dialog.xml"
+    }
+]

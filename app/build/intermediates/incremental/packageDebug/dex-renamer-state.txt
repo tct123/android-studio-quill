@@ -1,0 +1,7 @@
+#Tue Jan 24 23:39:04 PST 2017
+base.0=/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9fa82ee3684ea4ff7efb7ec6381f5ed2c37eee10
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_acec4e3f6137e9968d65ee13a9ca2f619dfb98e4/classes.dex
+base.1=/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_acec4e3f6137e9968d65ee13a9ca2f619dfb98e4
+file.0=/home/saravanan/ApolloPrescription/Refer/Paint/android-quill-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9fa82ee3684ea4ff7efb7ec6381f5ed2c37eee10/classes.dex
